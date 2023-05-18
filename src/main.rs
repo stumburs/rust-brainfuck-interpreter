@@ -4,6 +4,9 @@
 // I FEEL SO TRAPPED
 // HELP
 // WHAT IS THIS???
+// WHERE ARE MY BELOVED FOR LOOPS???
+// warnings, errors, all causing me night terrors
+// please, let me manage my own memory, at least a bit
 
 use std::io::stdin;
 
